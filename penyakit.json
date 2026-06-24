@@ -1,0 +1,9 @@
+{
+  "penyakit": [
+    {"id": "L01", "nama": "Laptop Entry-Level / Office", "deskripsi": "Cocok untuk pelajar, mahasiswa non-teknis, dan pekerja admin."},
+    {"id": "L02", "nama": "Laptop Gaming Mid-Range", "deskripsi": "Performa tangguh untuk bermain game terkini dan editing video kasual."},
+    {"id": "L03", "nama": "Laptop Ultrabook Premium / MacBook", "deskripsi": "Tipis, ringan, baterai tahan lama dengan performa kelas atas untuk profesional."},
+    {"id": "L04", "nama": "Laptop Workstation / Hardcore Gaming", "deskripsi": "Spesifikasi monster untuk rendering 3D berat, data science, dan game AAA rata kanan."},
+    {"id": "L05", "nama": "Laptop 2-in-1 Convertible", "deskripsi": "Layar fleksibel bisa ditekuk dengan touchscreen untuk desainer grafis atau ilustrator."}
+  ]
+}

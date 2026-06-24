@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {"id": "R01", "kondisi": ["G01", "G06"], "kesimpulan": "L01", "cf_pakar": 0.8},
+    {"id": "R02", "kondisi": ["G01", "G05", "G07"], "kesimpulan": "L01", "cf_pakar": 0.7},
+    {"id": "R03", "kondisi": ["G03", "G07", "G10"], "kesimpulan": "L02", "cf_pakar": 0.85},
+    {"id": "R04", "kondisi": ["G02", "G07", "G09"], "kesimpulan": "L02", "cf_pakar": 0.8},
+    {"id": "R05", "kondisi": ["G04", "G07", "G13"], "kesimpulan": "L02", "cf_pakar": 0.75},
+    {"id": "R06", "kondisi": ["G05", "G08", "G14"], "kesimpulan": "L03", "cf_pakar": 0.9},
+    {"id": "R07", "kondisi": ["G04", "G05", "G08"], "kesimpulan": "L03", "cf_pakar": 0.85},
+    {"id": "R08", "kondisi": ["G05", "G07", "G09"], "kesimpulan": "L03", "cf_pakar": 0.75},
+    {"id": "R09", "kondisi": ["G02", "G03", "G08"], "kesimpulan": "L04", "cf_pakar": 0.95},
+    {"id": "R10", "kondisi": ["G02", "G08", "G10", "G12"], "kesimpulan": "L04", "cf_pakar": 0.9},
+    {"id": "R11", "kondisi": ["G04", "G08", "G10"], "kesimpulan": "L04", "cf_pakar": 0.8},
+    {"id": "R12", "kondisi": ["G09", "G15", "G07"], "kesimpulan": "L05", "cf_pakar": 0.85},
+    {"id": "R13", "kondisi": ["G01", "G15", "G06"], "kesimpulan": "L05", "cf_pakar": 0.7},
+    {"id": "R14", "kondisi": ["G09", "G15", "G08"], "kesimpulan": "L05", "cf_pakar": 0.9},
+    {"id": "R15", "kondisi": ["G01", "G11", "G07"], "kesimpulan": "L01", "cf_pakar": 0.75}
+  ]
+}

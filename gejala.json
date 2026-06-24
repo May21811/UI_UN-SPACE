@@ -1,0 +1,19 @@
+{
+  "gejala": [
+    {"id": "G01", "pertanyaan": "Apakah Anda membutuhkan laptop untuk mengetik dokumen dan tugas harian?"},
+    {"id": "G02", "pertanyaan": "Apakah Anda membutuhkan performa grafis tinggi untuk editing video/rendering 3D?"},
+    {"id": "G03", "pertanyaan": "Apakah Anda bermain game dengan grafis berat secara rutin?"},
+    {"id": "G04", "pertanyaan": "Apakah Anda seorang programmer yang membutuhkan kompilasi kode cepat?"},
+    {"id": "G05", "pertanyaan": "Apakah laptop harus sering dibawa bepergian (ringan & baterai awet)?"},
+    {"id": "G06", "pertanyaan": "Apakah budget Anda di bawah 7 juta rupiah?"},
+    {"id": "G07", "pertanyaan": "Apakah budget Anda di kisaran 8 - 15 juta rupiah?"},
+    {"id": "G08", "pertanyaan": "Apakah budget Anda di atas 15 juta rupiah?"},
+    {"id": "G09", "pertanyaan": "Apakah membutuhkan layar dengan akurasi warna tinggi (sRGB 100%)?"},
+    {"id": "G10", "pertanyaan": "Apakah membutuhkan RAM minimal 16GB ke atas?"},
+    {"id": "G11", "pertanyaan": "Apakah Anda mengutamakan ketahanan bodi kelas militer/durabilitas tinggi?"},
+    {"id": "G12", "pertanyaan": "Apakah Anda memerlukan komputasi berbasis AI lokal/banyak core?"},
+    {"id": "G13", "pertanyaan": "Apakah Anda sering membuka banyak tab browser dan aplikasi sekaligus?"},
+    {"id": "G14", "pertanyaan": "Apakah Anda pengguna ekosistem perangkat Apple?"},
+    {"id": "G15", "pertanyaan": "Apakah Anda memerlukan layar sentuh (touchscreen) / stylus untuk menggambar?"}
+  ]
+}
